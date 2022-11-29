@@ -1,3 +1,23 @@
 body{
     background-color: slategray;
 }
+
+.text-editor{
+    background-image: url("./images/jate.png");
+    background-size: 1102px;
+ 
+  }
+  
+  .note-taker {
+    background-image: url("./images/notetaker.png");
+    background-size: 550px;
+    
+  }
+
+  .mongo {
+    background-image: url("./images/mongo.png");
+    background-size: 550px;
+    
+  }
+
+  
