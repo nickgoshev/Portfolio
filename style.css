@@ -19,5 +19,11 @@ body{
     background-size: 550px;
     
   }
+  .profile-photo {
+    background-image: url("./images/photo.jpeg");
+    background-size: 280px;
+    
+    
+  }
 
   
