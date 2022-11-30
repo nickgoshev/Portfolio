@@ -7,6 +7,12 @@ body{
     background-size: 1102px;
  
   }
+
+  .eric{
+    background-image: url("./images/eric.png");
+    background-size: 1102px;
+ 
+  }
   
   .note-taker {
     background-image: url("./images/notetaker.png");
